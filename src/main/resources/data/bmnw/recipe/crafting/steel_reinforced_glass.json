@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "c:plates/steel"
+    },
+    "N": {
+      "tag": "c:glass_blocks/cheap"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "result": {
+    "count": 2,
+    "id": "bmnw:steel_reinforced_glass"
+  }
+}

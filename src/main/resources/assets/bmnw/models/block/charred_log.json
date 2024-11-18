@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "bmnw:block/charred_log_top",
+    "particle": "bmnw:block/charred_log",
+    "side": "bmnw:block/charred_log",
+    "top": "bmnw:block/charred_log_top"
+  }
+}

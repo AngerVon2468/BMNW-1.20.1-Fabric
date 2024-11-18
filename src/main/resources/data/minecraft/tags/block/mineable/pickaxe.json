@@ -1,0 +1,21 @@
+{
+  "values": [
+    "bmnw:blazing_nuclear_remains",
+    "bmnw:nuclear_remains",
+    "bmnw:slaked_nuclear_remains",
+    "bmnw:decontaminator",
+    "bmnw:nuclear_charge",
+    "bmnw:steel_block",
+    "bmnw:uranium_block",
+    "bmnw:thorium_block",
+    "bmnw:raw_uranium_block",
+    "bmnw:raw_thorium_block",
+    "bmnw:uranium_ore",
+    "bmnw:thorium_ore",
+    "bmnw:deepslate_uranium_ore",
+    "bmnw:deepslate_thorium_ore",
+    "#bmnw:concrete",
+    "bmnw:steel_reinforced_glass"
+  ],
+  "replace": false
+}

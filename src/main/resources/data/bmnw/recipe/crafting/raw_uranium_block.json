@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "raw_uranium_block",
+  "key": {
+    "#": {
+      "tag": "c:raw_materials/uranium"
+    },
+    "N": {
+      "item": "bmnw:raw_uranium"
+    }
+  },
+  "pattern": [
+    "###",
+    "#N#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bmnw:raw_uranium_block"
+  }
+}

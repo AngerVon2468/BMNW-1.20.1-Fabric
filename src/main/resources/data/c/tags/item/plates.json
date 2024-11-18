@@ -1,0 +1,9 @@
+{
+  "values": [
+    "bmnw:iron_plate",
+    "bmnw:copper_plate",
+    "bmnw:gold_plate",
+    "bmnw:steel_plate"
+  ],
+  "replace": false
+}

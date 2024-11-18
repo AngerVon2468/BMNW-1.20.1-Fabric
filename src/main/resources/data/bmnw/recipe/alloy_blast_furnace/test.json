@@ -1,0 +1,12 @@
+{
+  "type": "bmnw:alloy_blast_furnace",
+  "stack1": {
+    "item": "minecraft:dirt"
+  },
+  "stack2": {
+    "item": "bmnw:irradiated_plant_fibers"
+  },
+  "result": {
+    "item": "bmnw:irradiated_grass_block"
+  }
+}

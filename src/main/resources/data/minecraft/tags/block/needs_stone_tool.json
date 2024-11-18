@@ -1,0 +1,15 @@
+{
+  "values": [
+    "bmnw:blazing_nuclear_remains",
+    "bmnw:nuclear_remains",
+    "bmnw:uranium_ore",
+    "bmnw:thorium_ore",
+    "bmnw:deepslate_uranium_ore",
+    "bmnw:deepslate_thorium_ore",
+    "bmnw:uranium_block",
+    "bmnw:thorium_block",
+    "bmnw:raw_uranium_block",
+    "bmnw:raw_thorium_block"
+  ],
+  "replace": false
+}

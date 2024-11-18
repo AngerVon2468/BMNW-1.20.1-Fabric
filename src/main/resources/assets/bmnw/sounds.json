@@ -1,0 +1,19 @@
+{
+  "geiger_click": {
+    "sounds": [
+      "bmnw:geiger_click"
+    ]
+  },
+  "large_explosion": {
+    "sounds": [
+      "bmnw:large_explosion"
+    ]
+  },
+  "small_explosion": {
+    "sounds": [
+      "bmnw:bomb_1",
+      "bmnw:bomb_2",
+      "bmnw:bomb_3"
+    ]
+  }
+}

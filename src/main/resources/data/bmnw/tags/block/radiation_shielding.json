@@ -1,0 +1,21 @@
+{
+  "values": [
+    "minecraft:bedrock",
+    "minecraft:barrier",
+    "#c:storage_blocks/iron",
+    "#c:storage_blocks/gold",
+    {
+      "id": "#c:storage_blocks/steel",
+      "required": false
+    },
+    "#c:storage_blocks/netherite",
+    "minecraft:stone_bricks",
+    "minecraft:stone_brick_slab",
+    "minecraft:stone_brick_stairs",
+    "minecraft:iron_door",
+    "minecraft:iron_trapdoor",
+    "#bmnw:concrete",
+    "bmnw:steel_reinforced_glass",
+    "bmnw:creative_concrete_bricks"
+  ]
+}

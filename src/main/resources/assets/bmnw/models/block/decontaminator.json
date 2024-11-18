@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "block/anvil",
+    "particle": "block/anvil",
+    "side": "block/anvil",
+    "top": "bmnw:block/decontaminator_vent"
+  }
+}

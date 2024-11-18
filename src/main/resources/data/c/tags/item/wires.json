@@ -1,0 +1,9 @@
+{
+  "values": [
+    "bmnw:iron_wire",
+    "bmnw:copper_wire",
+    "bmnw:gold_wire",
+    "bmnw:steel_wire"
+  ],
+  "replace": false
+}

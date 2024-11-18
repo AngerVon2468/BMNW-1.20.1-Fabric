@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bmnw:block/steel_reinforced_glass"
+  },
+  "render_type": "cutout"
+}

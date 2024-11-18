@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bmnw:block/slaked_stretched_nuclear_remains"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "group": "thorium_ingot",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "tag": "c:raw_materials/thorium"
+  },
+  "result": {
+    "id": "bmnw:thorium_ingot"
+  }
+}

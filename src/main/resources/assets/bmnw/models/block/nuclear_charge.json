@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "bmnw:block/boxed_iron_block",
+    "particle": "bmnw:block/boxed_iron_block",
+    "side": "bmnw:block/boxed_iron_block",
+    "top": "bmnw:block/nuclear_charge"
+  }
+}

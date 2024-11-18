@@ -1,0 +1,55 @@
+{
+  "variants": {
+    "irradiation=1": [
+      {
+        "model": "bmnw:block/irradiated_grass_block_light",
+        "y": 90
+      },
+      {
+        "model": "bmnw:block/irradiated_grass_block_light",
+        "y": 180
+      },
+      {
+        "model": "bmnw:block/irradiated_grass_block_light",
+        "y": 270
+      },
+      {
+        "model": "bmnw:block/irradiated_grass_block_light"
+      }
+    ],
+    "irradiation=2": [
+      {
+        "model": "bmnw:block/irradiated_grass_block",
+        "y": 90
+      },
+      {
+        "model": "bmnw:block/irradiated_grass_block",
+        "y": 180
+      },
+      {
+        "model": "bmnw:block/irradiated_grass_block",
+        "y": 270
+      },
+      {
+        "model": "bmnw:block/irradiated_grass_block"
+      }
+    ],
+    "irradiation=3": [
+      {
+        "model": "bmnw:block/irradiated_grass_block_dark",
+        "y": 90
+      },
+      {
+        "model": "bmnw:block/irradiated_grass_block_dark",
+        "y": 180
+      },
+      {
+        "model": "bmnw:block/irradiated_grass_block_dark",
+        "y": 270
+      },
+      {
+        "model": "bmnw:block/irradiated_grass_block_dark"
+      }
+    ]
+  }
+}

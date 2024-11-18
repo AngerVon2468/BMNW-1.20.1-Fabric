@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "bmnw:block/concrete",
+    "particle": "bmnw:block/foundation_concrete",
+    "side": "bmnw:block/foundation_concrete",
+    "top": "bmnw:block/concrete"
+  }
+}

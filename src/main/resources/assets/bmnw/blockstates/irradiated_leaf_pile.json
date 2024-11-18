@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "irradiation=1": {
+        "model": "bmnw:block/irradiated_leaf_pile_light"
+      },
+    "irradiation=2": {
+        "model": "bmnw:block/irradiated_leaf_pile"
+      },
+    "irradiation=3": {
+        "model": "bmnw:block/irradiated_leaf_pile_dark"
+      }
+  }
+}

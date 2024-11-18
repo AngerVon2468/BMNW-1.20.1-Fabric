@@ -1,0 +1,9 @@
+{
+  "values": [
+    "bmnw:playstation",
+    {
+      "id": "create:creative_blaze_cake",
+      "required": false
+    }
+  ]
+}

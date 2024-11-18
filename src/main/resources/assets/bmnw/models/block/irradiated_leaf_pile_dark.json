@@ -1,0 +1,6 @@
+{
+  "parent": "bmnw:block/leaf_pile",
+  "textures": {
+    "leaves": "bmnw:block/irradiated_leaves_dark"
+  }
+}

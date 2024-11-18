@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "uranium_ingot",
+  "ingredient": {
+    "tag": "c:ores/thorium"
+  },
+  "result": {
+    "id": "bmnw:thorium_ingot"
+  }
+}

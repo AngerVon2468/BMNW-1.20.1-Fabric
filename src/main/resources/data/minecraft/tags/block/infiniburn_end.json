@@ -1,0 +1,10 @@
+{
+  "values": [
+    "bmnw:slaked_nuclear_remains",
+    "bmnw:nuclear_remains",
+    "bmnw:blazing_nuclear_remains",
+    "bmnw:charred_log",
+    "bmnw:charred_planks"
+  ],
+  "replace": false
+}

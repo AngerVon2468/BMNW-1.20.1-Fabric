@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bmnw:block/irradiated_fern",
+    "layer1": "bmnw:block/irradiated_grass"
+  }
+}

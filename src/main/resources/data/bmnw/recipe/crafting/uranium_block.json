@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "uranium_block",
+  "key": {
+    "#": {
+      "tag": "c:ingots/uranium"
+    },
+    "N": {
+      "item": "bmnw:uranium_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "#N#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bmnw:uranium_block"
+  }
+}

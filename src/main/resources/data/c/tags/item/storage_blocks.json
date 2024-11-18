@@ -1,0 +1,10 @@
+{
+  "values": [
+    "bmnw:steel_block",
+    "bmnw:uranium_block",
+    "bmnw:raw_uranium_block",
+    "bmnw:thorium_block",
+    "bmnw:raw_thorium_block"
+  ],
+  "replace": false
+}

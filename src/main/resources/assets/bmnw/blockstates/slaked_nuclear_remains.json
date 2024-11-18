@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "bmnw:block/slaked_nuclear_remains"
+      },
+      {
+        "model": "bmnw:block/slaked_nuclear_remains"
+      },
+      {
+        "model": "bmnw:block/slaked_bland_nuclear_remains"
+      },
+      {
+        "model": "bmnw:block/slaked_stretched_nuclear_remains"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "bmnw:block/alt_orientable_block",
+  "textures": {
+    "top": "bmnw:block/alloy_blast_furnace_top",
+    "bottom": "bmnw:block/small_nether_bricks",
+    "side": "bmnw:block/alloy_blast_furnace_side",
+    "particle": "bmnw:block/small_nether_bricks",
+    "front": "bmnw:block/alloy_blast_furnace_front_active"
+  }
+}
